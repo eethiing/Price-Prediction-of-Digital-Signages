@@ -1,7 +1,7 @@
 # Price-Prediction-of-Digital-Signages
 
 1. The scope of this experiment is quite small as the number of data was quite limited. 
-2. Models : Random Fores and XgBoost
+2. Models : Random Forest and XgBoost
 3. There might be other features that will contribute to the pricing index for digital signage.
 4. This study presents the labeling of the features and the regression models that are viable for price prediction. 
 5. Among the two regression models that were employed, Random Forest results proved to be superior with MAE of 0.0053, R2 of 0.9974, MSE of 0.00007 and OOB of 0.9973 but the time    taken to train Random Forest is longer which is around 1 minute 40 seconds whereas XGBoost is around 37 seconds. 
